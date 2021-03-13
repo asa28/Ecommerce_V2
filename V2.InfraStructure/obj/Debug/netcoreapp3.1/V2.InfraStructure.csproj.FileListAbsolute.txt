@@ -1,0 +1,12 @@
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.InfraStructure\bin\Debug\netcoreapp3.1\V2.InfraStructure.deps.json
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.InfraStructure\bin\Debug\netcoreapp3.1\V2.InfraStructure.dll
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.InfraStructure\obj\Debug\netcoreapp3.1\V2.InfraStructure.csprojAssemblyReference.cache
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.InfraStructure\obj\Debug\netcoreapp3.1\V2.InfraStructure.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.InfraStructure\obj\Debug\netcoreapp3.1\V2.InfraStructure.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.InfraStructure\bin\Debug\netcoreapp3.1\V2.InfraStructure.runtimeconfig.json
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.InfraStructure\bin\Debug\netcoreapp3.1\V2.InfraStructure.runtimeconfig.dev.json
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.InfraStructure\obj\Debug\netcoreapp3.1\V2.InfraStructure.genruntimeconfig.cache
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.InfraStructure\bin\Debug\netcoreapp3.1\V2.InfraStructure.pdb
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.InfraStructure\obj\Debug\netcoreapp3.1\V2.InfraStructure.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.InfraStructure\obj\Debug\netcoreapp3.1\V2.InfraStructure.dll
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.InfraStructure\obj\Debug\netcoreapp3.1\V2.InfraStructure.pdb

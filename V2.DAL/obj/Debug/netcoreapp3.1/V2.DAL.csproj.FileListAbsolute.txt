@@ -1,0 +1,12 @@
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.DAL\obj\Debug\netcoreapp3.1\V2.DAL.csprojAssemblyReference.cache
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.DAL\obj\Debug\netcoreapp3.1\V2.DAL.AssemblyInfoInputs.cache
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.DAL\obj\Debug\netcoreapp3.1\V2.DAL.AssemblyInfo.cs
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.DAL\bin\Debug\netcoreapp3.1\V2.DAL.deps.json
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.DAL\bin\Debug\netcoreapp3.1\V2.DAL.runtimeconfig.json
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.DAL\bin\Debug\netcoreapp3.1\V2.DAL.runtimeconfig.dev.json
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.DAL\bin\Debug\netcoreapp3.1\V2.DAL.dll
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.DAL\bin\Debug\netcoreapp3.1\V2.DAL.pdb
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.DAL\obj\Debug\netcoreapp3.1\V2.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.DAL\obj\Debug\netcoreapp3.1\V2.DAL.dll
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.DAL\obj\Debug\netcoreapp3.1\V2.DAL.pdb
+C:\Users\ahmad\source\repos\ECommerce_V2\V2.DAL\obj\Debug\netcoreapp3.1\V2.DAL.genruntimeconfig.cache
