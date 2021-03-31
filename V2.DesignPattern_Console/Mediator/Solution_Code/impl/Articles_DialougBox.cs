@@ -29,7 +29,7 @@ namespace V2.DesignPattern_Console.Mediator.Solution_Code.impl
 
         private void titleChanged() 
         { 
-            var content = tit
+            //var content = tit
         }
 
         #endregion
